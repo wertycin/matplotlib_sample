@@ -1,1 +1,1 @@
-# matplotlib_sample
+# Шаблон для построения графиков с помощью matplotlib
